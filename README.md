@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio by Moiz Ali
 
-You can use the [editor on GitHub](https://github.com/moizali-dev/moizali-dev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks, list of MOOCs and textbook excercises completed over the years. Following are the categories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Stand-alone projects
+- Kaggle competitions
+- MOOC Courses
+- Textbook excercises
 
-### Markdown
+### Stand-alone projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

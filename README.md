@@ -4,7 +4,7 @@ This portfolio is a compilation of notebooks, textbook excercises and MOOCs.The 
 
 - Personal projects
 - Kaggle competitions
-- Textbook excercises
+- Textbook exercises
 - MOOCs
 
 ## Personal projects

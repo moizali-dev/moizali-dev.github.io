@@ -16,7 +16,7 @@ Live version is [here](https://predictgenre-uzldmirsla-uc.a.run.app/)
 
 _Demo_:
 
-<iframe id="video" width="100%" height="100%" src="https://user-images.githubusercontent.com/22460824/211169633-15555de8-a6b6-4f29-8ac3-ce123f9e33f0.mov" controls="controls" style="max-width: 730px"></iframe>
+<video src="https://user-images.githubusercontent.com/22460824/211169633-15555de8-a6b6-4f29-8ac3-ce123f9e33f0.mov" controls></video>
 
 Credits:  
 [DataTalksClub](https://datatalks.club/), [TheSoundofAI](https://valeriovelardo.com/the-sound-of-ai/), [KodeKloud](https://kodekloud.com/)
@@ -38,7 +38,7 @@ Link: [DataKind](https://www.datakind.org/)
 
 **PASSNYC Clustering Analysis** ([3rd place Winner](https://www.kaggle.com/datasets/passnyc/data-science-for-good/discussion/61390?sort=votes) for top Notebook)  
 
-One of the first Kaggle competitions in which there was opporunity to help out a not for profit company. Managed to conduct extensive EDA and gather insights using clustering methodologies. Here is the [notebook](https://www.kaggle.com/code/moizzz/eda-and-clustering)
+One of the first Kaggle competitions in which there was opportunity to help out a not for profit company. Managed to conduct extensive EDA and gather insights using clustering methodologies. Here is the [notebook](https://www.kaggle.com/code/moizzz/eda-and-clustering)
 
 **Home Credit Default Risk**
 

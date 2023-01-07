@@ -17,11 +17,12 @@ Live version is [here](https://predictgenre-uzldmirsla-uc.a.run.app/)
 
 _Demo_:
 
+https://user-images.githubusercontent.com/22460824/211169633-15555de8-a6b6-4f29-8ac3-ce123f9e33f0.mov
+
 Credits:  
 [DataTalksClub](https://datatalks.club/), [TheSoundofAI](https://valeriovelardo.com/the-sound-of-ai/), [KodeKloud](https://kodekloud.com/)
 
 ## Volunteer projects (DataKind)
----
 **Risk of Student dropping collegue**
 
 Worked on a project to predict whether a student will be at risk of dropping out or not before joining JJC.   
@@ -35,7 +36,6 @@ Case study of the project can be found [here](https://www.datakind.org/projects/
 Link: [DataKind](https://www.datakind.org/)  
 
 ## Kaggle notebooks
----
 
 **PASSNYC Clustering Analysis** ([3rd place Winner](https://www.kaggle.com/datasets/passnyc/data-science-for-good/discussion/61390?sort=votes) for top Notebook)  
 
@@ -46,7 +46,7 @@ One of the first Kaggle competitions in which there was opporunity to help out a
 Used the opportunity to go through the *Applied Predictive Modelling* book and apply it to the competition. The notebook got a gold rating and can be found [here](https://www.kaggle.com/code/moizzz/applied-predictive-modelling-brief-overview)
 
 ## MOOCs and Relevant Courses
----
+
 - Introduction to Programming Using Python (Edx)
 - Introduction to Object Oriented Programming Using Java (Edx)
 - Data Structures and Algorithms (Edx)

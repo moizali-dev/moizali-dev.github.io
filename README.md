@@ -3,7 +3,6 @@
 This portfolio is a compilation of projects, notebooks and MOOCs completed
 
 ## Stand-alone projects
------
 
 ### **_Spotify Music Genre Classification_**
 
@@ -11,8 +10,7 @@ This is my own end to end project using the Spotify API to predict the genre of 
 
 This project consists of 2 parts: The Data Engineering and the Machine Learning/Deployment part
 
-**Part1:**  The Data Engineering part related to the architecture, challenges, solutions and next steps are [here](https://github.com/moizali-dev/MusicProjectDataset). 
-
+**Part1:**  The Data Engineering part related to the architecture, challenges, solutions and next steps are [here](https://github.com/moizali-dev/MusicProjectDataset).   
 **Part2:** The Machine Learning/Deplyment part related to the model used, deployment architecture and next steps are [here](https://github.com/moizali-dev/MusicClassificationModel)
 
 Live version is [here](https://predictgenre-uzldmirsla-uc.a.run.app/)

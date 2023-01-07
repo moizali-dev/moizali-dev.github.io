@@ -14,7 +14,7 @@ This project consists of 2 parts: The Data Engineering and the Machine Learning/
 
 Live version is [here](https://predictgenre-uzldmirsla-uc.a.run.app/)
 
-_Demo_:
+**Demo**:
 
 <video src="https://user-images.githubusercontent.com/22460824/211169633-15555de8-a6b6-4f29-8ac3-ce123f9e33f0.mov" width="640" height="360" controls></video>
 
@@ -51,4 +51,6 @@ Used the opportunity to go through the *Applied Predictive Modelling* book and a
 - Data Structures and Algorithms (Edx)
 - Machine Learning Foundations: A Case Study Approach (Coursera)
 - Neural Networks and Deep Learning (Coursera)
+- Computer Science I (Toronto Metropolitan University)
+- Computer Science II (Toronto Metropolitan University)
 - Unix/C/C++ (Toronto Metropolitan University)

@@ -22,7 +22,7 @@ Credits:
 [DataTalksClub](https://datatalks.club/), [TheSoundofAI](https://valeriovelardo.com/the-sound-of-ai/), [KodeKloud](https://kodekloud.com/)
 
 ## Volunteer projects (DataKind)
-**Risk of Student dropping collegue**
+**Risk of student dropping out**
 
 Worked on a project to predict whether a student will be at risk of dropping out or not before joining JJC.   
 Case study of the project can be found [here](https://www.datakind.org/blog/helping-students-graduate-datakind-presents-work-in-post-secondary-education)

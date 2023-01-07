@@ -16,7 +16,7 @@ Live version is [here](https://predictgenre-uzldmirsla-uc.a.run.app/)
 
 _Demo_:
 
-<video src="https://user-images.githubusercontent.com/22460824/211169633-15555de8-a6b6-4f29-8ac3-ce123f9e33f0.mov" controls></video>
+<video src="https://user-images.githubusercontent.com/22460824/211169633-15555de8-a6b6-4f29-8ac3-ce123f9e33f0.mov" width="640" height="360" controls></video>
 
 Credits:  
 [DataTalksClub](https://datatalks.club/), [TheSoundofAI](https://valeriovelardo.com/the-sound-of-ai/), [KodeKloud](https://kodekloud.com/)
